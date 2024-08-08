@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...python django,vue.js, machine learning and artificial intelligence.
 - 💞️ I’m looking to collaborate on ...any python django related projects,Web design and development.
 - 📫 How to reach me ...email me at mbogomartin25@gmail.com
-- ✨ visit my website ...https://mbogomartin.online
+- ✨ visit my website ...https://mbogomartin.netlify.app
 - ![Screenshot 2024-02-01 140205](https://github.com/martinmbogo-254/martinmbogo-254/assets/78340780/bb95153b-1b63-450d-992a-1078b75b1f34)
 
 <!---
