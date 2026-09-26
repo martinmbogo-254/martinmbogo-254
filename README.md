@@ -8,3 +8,6 @@
 martinmbogo-254/martinmbogo-254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![](https://github-contributor-stats.vercel.app/api?username=martinmbogo-254&limit=5&theme=dark&combine_all_yearly_contributions=true)<br/>
+## 🏆 Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Roy538&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
