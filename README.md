@@ -19,20 +19,24 @@ Software developer focused on Python, Django, web development, and data-driven s
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/ML-AI-FF6F61?style=for-the-badge)
 
-## GitHub Stats
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinmbogo-254&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-</p>
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=martinmbogo-254&theme=dark&hide_border=true)](https://github.com/martinmbogo-254)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinmbogo-254&layout=compact&theme=dark" alt="Top Languages" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=martinmbogo-254&show_icons=true&theme=dark&hide_border=true&count_private=true)](https://github.com/martinmbogo-254)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=martinmbogo-254&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=martinmbogo-254&layout=compact&theme=dark&hide_border=true)](https://github.com/martinmbogo-254)
 
-<!--
-This profile README is displayed on GitHub.
--->
+</div>
+
+## 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=martinmbogo-254&theme=dark&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+<div align="center">
+  <i>Let's build something amazing together!</i>
+</div>
